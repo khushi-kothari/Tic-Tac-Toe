@@ -1,11 +1,10 @@
 import './App.css';
-import Greet from './Components/Greet'
 import Game from './Components/Game'
 
 function App() {
   return (
     <div className="App">
-      <Greet />
+    <h1> Tic Tac Toe! </h1>
       <Game />
       
     </div>
